@@ -1,0 +1,50 @@
+/*@import '~antd/dist/antd.css';*/
+
+/*.code-box-demo {*/
+/*  text-align: center;*/
+/*}*/
+/*.ant-layout-header,*/
+/*.ant-layout-footer {*/
+/*  color: #fff;*/
+/*  background: #06666b;*/
+
+/*}*/
+/*[data-theme="dark"] .ant-layout-header {*/
+/*  background: #06666b;*/
+/*}*/
+/*[data-theme="dark"] .ant-layout-footer {*/
+/*  background: #06666b;*/
+/*}*/
+/*.ant-layout-footer {*/
+/*  line-height: 1.5;*/
+/*}*/
+/*.ant-layout-sider {*/
+/*  margin: 0px;*/
+/*  !*width: 0px;*!*/
+/*  color: #074d55;*/
+/*  background: #074d55;*/
+/*}*/
+/*[data-theme="dark"] .ant-layout-sider {*/
+/*  background: #1890ff;*/
+/*}*/
+/*.ant-layout-content {*/
+/*  min-height: 120px;*/
+/*  color: #fff;*/
+/*  line-height: 120px;*/
+/*  background: #06666b;*/
+/*}*/
+/*> .code-box-demo > .ant-layout + .ant-layout {*/
+/*  margin-top: 48px;*/
+/*}*/
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.5);
+}
+.site-layout .site-layout-background {
+  background:  rgba(255, 255, 255, 0.5);
+}
+[data-theme="dark"] .site-layout .site-layout-background {
+  background: #141414;
+}
+

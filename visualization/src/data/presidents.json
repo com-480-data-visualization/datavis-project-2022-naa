@@ -1,0 +1,115 @@
+{"features": [
+  {"number":38,"cardTitle":"Gerald Ford",
+    "birth_year":1913,"death_year":2006,
+    "title": "1974",
+    "party":"Republican",
+    "cardSubtitle": "The Republican Gerard Ford served as the 38th American president. He is the only president never to have been elected to the office of president or vice-president.",
+    "url": "https://en.wikipedia.org/wiki/Gerald_Ford",
+    "media": {
+      "source": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gerald_Ford_-_NARA_-_530680.jpg"
+      },
+      "type": "IMAGE"
+    }},
+
+  {"number":39,"cardTitle":"Jimmy Carter",
+    "birth_year":1924,
+    "death_year":null,
+    "title":"1977",
+    "left_office":"1981-01-20",
+    "party":"Democratic",
+    "cardSubtitle": "Jimmy Carter served as the 39th American president. The Democrat politician is the oldest living president, and the nation’s longest lived president.",
+    "url": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+    "media": {
+      "source": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/JimmyCarterPortrait_%28cropped%29.jpg"
+      },
+      "type": "IMAGE"
+    }},
+  {"number":40,"cardTitle":"Ronald Reagan",
+    "birth_year":1911,
+    "death_year":2004,
+    "title":"1981",
+    "left_office":"1989-01-20",
+    "party":"Republican",
+    "cardSubtitle": "The Republican Ronald Reagan was the 40th American president. Once a famous Hollywood actor, he was a union leader before turning to politics.",
+    "url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+    "media": {
+      "source": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg"
+    },
+      "type": "IMAGE"
+    }},
+
+  {"number":41,"cardTitle":"George H. W. Bush",
+    "birth_year":1924,"death_year":2018,
+    "title":"1989",
+    "left_office":"1993-01-20",
+    "party":"Republican", 
+    "cardSubtitle": "George Herbert Walker Bush served as the 41th American president. The Republican president navigated through the final years of the first cold war, and presided the invasion of Panama and the Gulf War.",
+    "url": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+    "media": {
+      "source": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg"
+      },
+      "type": "IMAGE"
+    }},
+  
+  {"number":42,"cardTitle":"Bill Clinton",
+    "birth_year":1946,"death_year":null,
+    "title":"1993",
+    "left_office":"2001-01-20",
+    "party":"Democratic",
+    "cardSubtitle": "The Democrat Bill Clinton is the 42nd president of the United-States. He presided over the longest period of peacetime economic expansion in the history of the country, at the aftermath of the cold war.",
+    "url": "https://en.wikipedia.org/wiki/Bill_Clinton",
+    "media": {
+      "source": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bill_Clinton.jpg"
+      },
+      "type": "IMAGE"
+    }},
+  {"number":43,"cardTitle":"George W. Bush",
+    "birth_year":1946,"death_year":null,
+    "title":"2001",
+    "left_office":"2009-01-20","party":"Republican",
+    "cardSubtitle": "The Republican George Walker Bush served as the 43rd president of the United-States. He was the running president during the 2001 terror attacks that hit the country, and launched the controversial war in Iraq thereafter.",
+    "url": "https://en.wikipedia.org/wiki/George_W._Bush",
+    "media": {
+      "source": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/905px-George-W-Bush.jpeg?20111129235605"
+      },
+      "type": "IMAGE"
+    }},
+  {"number":44,"cardTitle":"Barack Obama",
+    "birth_year":1961,"death_year":null,
+    "title":"2009",
+    "left_office":"2017-01-20","party":"Democratic",
+    "cardSubtitle": "Barack Hussein Obama is an American politician who served as the 44th president of the United States from 2009 to 2017. He was the first African-American president of the United States.[2] A member of the Democratic Party, he previously served as a U.S. senator from Illinois from 2005 to 2008 and as an Illinois state senator from 1997 to 2004.",
+    "url": "https://en.wikipedia.org/wiki/Barack_Obama",
+    "media": {
+      "source": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg"
+      },
+      "type": "IMAGE"
+    }},
+  {"number":45,"cardTitle":"Donald J. Trump",
+    "birth_year":1946,"death_year":null,
+    "title":"2017",
+    "left_office":"2021-01-20","party":"Republican",
+    "cardSubtitle": "The Republican Donald John Trump served as the 45th American president. He is best known for his economic war against China in a new cold war context, and for ending the American unilateralism foreign policies.",
+    "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "media": {
+      "source": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg"
+      }}},
+  {"number":46,"cardTitle":"Joseph Biden",
+    "birth_year":1942,"death_year":null,
+    "title":"2021","left_office":null,
+    "party":"Democratic",
+    "cardSubtitle": "The Democrat Joseph Biden is the current American running president. He serves as the 46th president of the United-States, and is currently best known for its withdrawal from Afghanistan, and for its response to the Ukraine war.",
+    "url": "https://en.wikipedia.org/wiki/Joe_Biden",
+    "media": {
+      "source": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Joe_Biden_presidential_portrait.jpg"
+      }}}
+]}
