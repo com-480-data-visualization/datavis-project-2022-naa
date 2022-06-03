@@ -3,15 +3,7 @@ import "antd/dist/antd.min.css"
 import React from "react";
 import election_results from "./../data/yearly_party_results.json"
 import MapResults from './MapResults'
-
-const contentStyle = {
-    height: '160px',
-    color: '#fff',
-    lineHeight: '160px',
-    textAlign: 'center',
-    background: '#364d79',
-};
-
+import styled from 'styled-components';
 
 const ElectionsMaps = () => {
     const onChange = (currentSlide) => {
@@ -27,15 +19,15 @@ const ElectionsMaps = () => {
         {year: '2020', color: 'rgba(106, 164, 24, 1)', fillColor: 'rgba(106, 164, 24, 0.61)', mouseon: ''},
 
     ]
-
     return (
         <Carousel dotPosition={'top'}
                   afterChange={onChange}>
+
             <MapResults data={data[0]}
                         fractions={election_results["2000"].fractions}
                         color = {data[0].color}
             ></MapResults>
-            <MapResults data={data[1]} fractions={election_results["2004"].fractions}
+                <MapResults data={data[1]} fractions={election_results["2004"].fractions}
                         color = {data[1].color}></MapResults>
             <MapResults data={data[2]} fractions={election_results["2008"].fractions}
                         color = {data[2].color}></MapResults>

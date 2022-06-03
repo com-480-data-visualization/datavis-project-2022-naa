@@ -95,13 +95,16 @@
   {"number":45,"cardTitle":"Donald J. Trump",
     "birth_year":1946,"death_year":null,
     "title":"2017",
-    "left_office":"2021-01-20","party":"Republican",
+    "left_office":"2021-01-20",
+    "party":"Republican",
     "cardSubtitle": "The Republican Donald John Trump served as the 45th American president. He is best known for his economic war against China in a new cold war context, and for ending the American unilateralism foreign policies.",
     "url": "https://en.wikipedia.org/wiki/Donald_Trump",
     "media": {
       "source": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg"
-      }}},
+        "url": "https://petapixel.com/assets/uploads/2017/01/Donald_Trump_official_portraitt.jpg"
+      },
+      "type": "IMAGE"
+    }},
   {"number":46,"cardTitle":"Joseph Biden",
     "birth_year":1942,"death_year":null,
     "title":"2021","left_office":null,
@@ -111,5 +114,7 @@
     "media": {
       "source": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Joe_Biden_presidential_portrait.jpg"
-      }}}
+      },
+    "type": "IMAGE"
+  }}
 ]}

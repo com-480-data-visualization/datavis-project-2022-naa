@@ -8,17 +8,20 @@ export default function HorizontalTimeline() {
 
     return (
         <div id={'presidents'}>
-            <div style={{ width: "850px", height: "500px" }}>
-                <Chrono fontSizes={{
+            <div style={{ textAlign: 'center',
+                width: "850px",
+                height: "500px" }}>
+                <Chrono
+                    style={{textAlign: 'center'}}
+                    fontSizes={{
                     cardSubtitle: '0.85rem',
-                    cardText: '0.8rem',
-                    cardTitle: '1rem'
+                    cardText: '10px',
+                    cardTitle: '39px'
                 }}
                         items={items} mode="HORIZONTAL"
                         theme={{
                     primary: 'rgba(11, 117, 134, 1)',
                     secondary: 'rgba(11, 117, 134, 0.61)',
-                    // cardBgColor: 'rgb(255, 255, 255, 0.5)',
                     cardForeColor: 'rgb(255, 255, 255, 0.5)',
                     titleColor: 'black',
                 }}/>
