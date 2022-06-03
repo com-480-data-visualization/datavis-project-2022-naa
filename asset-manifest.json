@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/datavis-project-2022-naa/static/css/main.6aacbf8f.css",
-    "main.js": "/datavis-project-2022-naa/static/js/main.d90f90d7.js",
+    "main.js": "/datavis-project-2022-naa/static/js/main.d2c1bbe1.js",
     "index.html": "/datavis-project-2022-naa/index.html",
     "main.6aacbf8f.css.map": "/datavis-project-2022-naa/static/css/main.6aacbf8f.css.map",
-    "main.d90f90d7.js.map": "/datavis-project-2022-naa/static/js/main.d90f90d7.js.map"
+    "main.d2c1bbe1.js.map": "/datavis-project-2022-naa/static/js/main.d2c1bbe1.js.map"
   },
   "entrypoints": [
     "static/css/main.6aacbf8f.css",
-    "static/js/main.d90f90d7.js"
+    "static/js/main.d2c1bbe1.js"
   ]
 }
