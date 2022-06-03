@@ -26,7 +26,7 @@ You can access the first instance of the website [by clicking here](https://nast
 
 **80% of the final grade**
 You will find the final website [by clicking here](https://com-480-data-visualization.github.io/datavis-project-2022-naa/).
-The process book is available [here](https://github.com/com-480-data-visualization/datavis-project-2022-naa/blob/master/Deliverables/NAA_milestone_3.pdf).
+The process book is available [here](https://github.com/com-480-data-visualization/datavis-project-2022-naa/blob/master/Deliverables/NAA_milestone_3.pdf), and the screencast video [here](https://youtu.be/IeP69ATmtR4).
 
 
 ## Late policy
