@@ -17,7 +17,7 @@ You will find the milestone 1 [by clicking here](https://github.com/com-480-data
 ## Milestone 2 (7th May, 5pm)
 
 **10% of the final grade**
-You will find the milestone 2 [by clicking here](https://github.com/com-480-data-visualization/datavis-project-2022-naa/blob/main/Deliverables/NAA_milestone_2.pdf).
+You will find the milestone 2 [by clicking here]c).
 
 You can access the first instance of the website [by clicking here](https://nastya236.github.io/us_elections/).
 
@@ -25,8 +25,8 @@ You can access the first instance of the website [by clicking here](https://nast
 
 
 **80% of the final grade**
-You will find the milestone 3 [by clicking here](https://com-480-data-visualization.github.io/datavis-project-2022-naa/).
-Detailed report is available [here](https://onedrive.live.com/view.aspx?resid=4AEEE62336DB002F!59326&ithint=file%2cdocx&authkey=!AJ1e8hFKhCkmBRs)
+You will find the final website [by clicking here](https://com-480-data-visualization.github.io/datavis-project-2022-naa/).
+The process book is available [here](https://github.com/com-480-data-visualization/datavis-project-2022-naa/blob/main/Deliverables/NAA_milestone_3.pdf).
 
 
 ## Late policy
