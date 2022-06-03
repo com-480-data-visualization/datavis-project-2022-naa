@@ -29,7 +29,8 @@ const ElectionsMaps = () => {
     ]
 
     return (
-        <Carousel afterChange={onChange}>
+        <Carousel dotPosition={'top'}
+                  afterChange={onChange}>
             <MapResults data={data[0]}
                         fractions={election_results["2000"].fractions}
                         color = {data[0].color}

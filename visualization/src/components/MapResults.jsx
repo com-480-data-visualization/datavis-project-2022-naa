@@ -1,12 +1,10 @@
 import ElectionsMap from "./ElectionsMap";
 import ApexChart from "./BarChart";
-// import React from "react";
 
 function MapResults (props) {
     const data = props.data
     const fractions = props.fractions
     const color = props.color
-    console.log(data)
     return (
         <div>
     <ElectionsMap year={data.year}

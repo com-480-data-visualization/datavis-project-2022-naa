@@ -17,10 +17,11 @@ class ElectionsMap extends Component {
         const mouseon = this.props.mouseon;
         const year = this.props.year;
         const countryName = country.properties.ADMIN;
+        console.log(countryName)
         const popupContentNode = <Icon
-            state_name = {countryName}
-            // fraction_demo = {country[year].democrat}
-            // fraction_rep = {country[year].republican}
+            name = {countryName}
+            fraction_demo = {country[year].democrat}
+            fraction_rep = {country[year].republican}
         >
         </Icon>;
         const popupContentHtml = ReactDOMServer.renderToString(popupContentNode);

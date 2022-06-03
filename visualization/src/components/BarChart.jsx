@@ -4,7 +4,6 @@ import ReactApexChart from 'react-apexcharts'
 class ApexChart extends React.Component {
     constructor(props) {
         super(props);
-        console.log(props.fractions)
 
         this.state = {
             series: [{
@@ -37,7 +36,7 @@ class ApexChart extends React.Component {
     }
     render() {
         return (
-            <div id="chart">
+            <div>
                 <ReactApexChart options={this.state.options}
                                 series={this.state.series}
                                 type="bar"

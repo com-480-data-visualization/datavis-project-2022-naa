@@ -64,9 +64,6 @@ class ApexChart extends React.Component {
                         }
                     }
                 },
-                title: {
-                    text: 'Mauritius population pyramid 2011'
-                },
                 xaxis: {
                     categories: ['31-35', '36-40', '41-45', '46-50',
                         '51-55', '56-60', '61-65', '66-70', '71-75', '76-80'
