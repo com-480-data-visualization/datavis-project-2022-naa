@@ -23,7 +23,10 @@ You can access the first instance of the website [by clicking here](https://nast
 
 ## Milestone 3 (4th June, 5pm)
 
+
 **80% of the final grade**
+You will find the milestone 3 [by clicking here](https://com-480-data-visualization.github.io/datavis-project-2022-naa/).
+Detailed report is available [here](https://onedrive.live.com/view.aspx?resid=4AEEE62336DB002F!59326&ithint=file%2cdocx&authkey=!AJ1e8hFKhCkmBRs)
 
 
 ## Late policy
